@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAS9NE8skyxUSr3wXA0Wn87gAAAAACAAAAAAAQZgAAAAEAACAAAAAPW16rLZge8wlt7lCPwFnKBiMJ4qJP2TbYI6G4GgsKQAAAAAAOgAAAAAIAACAAAACLzd669pSMgaCjRdhiGwb3s5aetjatfKAOig4TaVQXkSAAAAA0aLuNXGZ3hyNlGBKKZGNyPOAx0HR8hMhXrpu3n+HA/EAAAAC1onFr2aDK6UTJ4La/KVNNgL6Sez7mY/CmjbbrcqgdS7JO7g59Q1G0YLL4t1QCOAOppfBXM+JXDMsaoiqhmQQf</EncryptedPassword>
+    <History>False|2022-05-11T17:59:46.1219332Z;False|2022-05-11T11:22:27.0105793+03:00;False|2022-05-11T11:19:12.1903155+03:00;True|2022-05-11T11:01:28.0541610+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>data source=mysql8001.site4now.net%3bDatabase=db_a8602c_hedora%3bUid=a8602c_hedora%3bPwd=mig31%40vsf35%40%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

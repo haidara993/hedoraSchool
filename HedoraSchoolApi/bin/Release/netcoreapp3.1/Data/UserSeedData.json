@@ -1,0 +1,17 @@
+[
+    {
+      "Username": "haidara993",
+      "Email": "haidara@email.com",
+      "DivisionId": 1,
+      "EnrollNo": "12345",
+      "Password": "password",
+      "DisplayName": "haidara_yousef",
+      "StandardId": 1,
+      "Dob": "25/4/1993",
+      "GuardianName": "Moez",
+      "BloodGroup": "AB+",
+      "PhoneNumber": "+963930059138",
+      "IsVerified": false,
+      "PhotoUrl":"default"
+    }
+  ]

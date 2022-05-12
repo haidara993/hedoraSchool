@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>False|2022-04-27T08:19:08.9370254Z;True|2022-04-27T07:32:30.0222149+03:00;True|2022-04-27T07:13:58.7454982+03:00;True|2022-04-27T07:01:52.7176890+03:00;True|2022-04-27T06:52:47.4184063+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>data source=MYSQL8001.site4now.net%3b%3bDatabase=db_a8602c_haidara%3bUid=a8602c_haidara%3bPwd=Pa%24%24wOrd993%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
