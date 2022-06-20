@@ -27,12 +27,21 @@ for the flutter app run flutter pub get to install packages, then set const DOMA
 | :heavy_check_mark:           | :heavy_check_mark:         | E-card page  |
 | :heavy_check_mark:           | :heavy_check_mark:         | Profile page  |
 | :heavy_check_mark:           | :x:         | Holidays page  |
+| :x:            | :x:         | TimeTable page  |
 
 ## Iniatial Account 
 i seed some data on initial run. you can change the account
 
-default Account:
+### default Account:
 
 username: haidara993
 
 password: password
+
+## screenshots
+
+<img src="madrasatymobile/screenshots/PSX_20220620_220302.jpg">
+
+<img src="madrasatymobile/screenshots/PSX_20220620_220359.jpg">
+
+
