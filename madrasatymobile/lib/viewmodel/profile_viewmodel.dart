@@ -60,6 +60,7 @@ class ProfileViewModel extends GetxController {
       image = File(pickedFile.path);
       path = pickedFile.path;
       this._file = pickedFile;
+      print(path);
       _uploadimg = true;
       update();
     }

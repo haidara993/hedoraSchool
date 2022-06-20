@@ -22,6 +22,7 @@ class LoginView extends GetWidget<AuthViewModel> {
         onPressed: () async {
           _formKey.currentState?.save();
           if (_formKey.currentState!.validate()) {
+            print("object");
             controller.login();
           }
         },
